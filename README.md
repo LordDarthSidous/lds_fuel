@@ -1,6 +1,6 @@
 # About
 My Forked modified version of LegacyFuel all rights belong to the owner.
-this is my version and its NUI based
+This is my version, which I added NUI. 
 ![image](https://user-images.githubusercontent.com/82306584/134341351-46b14e43-986a-4f26-9e7b-37eac8516f1e.png)
 
 ### Installation
